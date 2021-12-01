@@ -12,7 +12,7 @@ To build and install you need [stack](https://docs.haskellstack.org/en/stable/RE
 
 Instructions:
 ```
-$ git clone
+$ git clone https://github.com/soukev/heretic-web-gen.git
 $ cd heretic-web-gen 
 $ stack build
 $ stack install
